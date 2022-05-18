@@ -1,0 +1,13 @@
+dag_bat
+\sum_{M,M2}P(Y|V,M,M2)P(M2|V,M)P(M|V)
+
+dag_bat_ixn
+\sum_{M,M2}P(Y|V,M,M2)P(M2|V,M)P(M|V)
+
+dag_bird
+\sum_{M2,M}P(Y|V,M2,M)P(M|V,M2)P(M2|V)
+
+dag_bird_ixn
+\sum_{M2,M}P(Y|V,M2,M)P(M|V,M2)P(M2|V)
+
+

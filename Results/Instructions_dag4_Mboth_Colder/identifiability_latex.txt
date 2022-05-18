@@ -1,0 +1,4 @@
+dag_dromedary_strongconf
+\sum_{C,M}P(Y|C,V,M)P(M|C,V)P(C)
+
+

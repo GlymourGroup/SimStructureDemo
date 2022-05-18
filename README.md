@@ -1,2 +1,2 @@
-# SimStructureDemo
-In progress - Demo for May 18 2022 Simulation Group Meeting
+# lifecourse_data_pooling_sim
+ Data pooling grant: simulating life course data pooling
